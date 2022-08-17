@@ -1,4 +1,4 @@
-# NUMBER CALCULATOR -vanilla JavaScript
+# MODERN DAY CALCULATOR -vanilla JavaScript
 
 #### made by Mojiboye Emmanuel
 
